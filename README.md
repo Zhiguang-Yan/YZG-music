@@ -20,7 +20,7 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
->![recommend]("./src/doc/recommend.png")
->![singer]("./src/doc/singer.png")
->![playlist]("./src/doc/playlist.png")
->![player]("./src/doc/player.png")
+>![recommend](./src/doc/recommend.png)
+>![singer](./src/doc/singer.png)
+>![playlist](./src/doc/playlist.png)
+>![player](./src/doc/player.png)
